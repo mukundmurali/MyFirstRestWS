@@ -1,0 +1,20 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+build/
+*.class
+*.jar
+.gradle/
+generated/
+classes/
+.apt_generated/
+.settings/
+/bin
+*.log
+db.lck
+derby.log
+.metadata/
+.jazz3/
